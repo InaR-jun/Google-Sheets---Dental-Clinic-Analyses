@@ -39,4 +39,4 @@ The analysis concluded that despite recent small profits, the clinic's overall f
 
 A screenshot of the completed financial model and performance dashboard in Google Sheets:
 
-![Dental Clinic Performance Analysis Dashboard](google sheets 1.png)
+![Dental Clinic Performance Analysis Dashboard](sheets1.png)
