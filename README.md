@@ -34,3 +34,9 @@ The core of this project is a comprehensive Google Sheets workbook featuring int
 ## Strategy Summary (5th Quarter Proposal)
 
 The analysis concluded that despite recent small profits, the clinic's overall financial balance remains negative. The proposed 5th Quarter Strategy, derived from modeling and testing various scenarios, focuses on optimizing the doctor roster and setting service costs relative to the market to achieve sustained profitability without relying on extensive discount programs.
+
+## 🖼️ Dashboard Preview
+
+A screenshot of the completed financial model and performance dashboard in Google Sheets:
+
+![Dental Clinic Performance Analysis Dashboard](google sheets 1.png)
